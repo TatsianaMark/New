@@ -3,6 +3,11 @@ import { Map, Marker, Popup, TileLayer } from "react-leaflet";
 import { Icon } from "leaflet";
 import * as parkData from "./data/churches.json";
 import "./App.css";
+// import 'node_modules/leaflet-geosearch/dist/geosearch.css';
+// import { OpenStreetMapProvider, GeoSearchControl } from 'leaflet-geosearch';
+//
+// const provider = new OpenStreetMapProvider();
+
 
 
 export const icon = new Icon({
@@ -15,8 +20,17 @@ export const icon = new Icon({
 export default function App() {
     const [activeChurch, setActiveChurch] = React.useState(null);
 
+    // const search = new GeoSearch.GeoSearchControl({
+    //     provider: new GeoSearch.OpenStreetMapProvider(),
+    // });
+
+
     return (
+
         <Map center={[40.712776,-74.005974]} zoom={12}>
+
+
+
             <TileLayer
                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                 attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
@@ -51,10 +65,14 @@ export default function App() {
                         <p>{activeChurch.properties.church_address_providence_name}<br/>
                             {activeChurch.properties.church_address_street_address}<br/>
                             {activeChurch.properties.church_address_postal_code}<br/>
+                            {activeChurch.properties.phone_number}<br/>
+                            {activeChurch.properties.url}<br/>
                         </p>
                     </div>
                 </Popup>
             )}
         </Map>
+
+
     );
 }
