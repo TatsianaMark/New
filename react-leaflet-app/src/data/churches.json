@@ -1,0 +1,1373 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1219,
+        "church_address_city_name": "Long Island City",
+        "church_address_country_territory_name": "United States",
+        "church_address_county": null,
+        "church_address_postal_code": "11101",
+        "church_address_providence_name": "New York",
+        "church_address_street_address": "35-20 Greenpoint Avenue",
+        "church_type_name": "Parish",
+        "church_worship_times": [
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1350668",
+            "is_perpetual": false,
+            "language": "English",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "08:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1093224",
+            "is_perpetual": false,
+            "language": "Korean",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "09:45:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1093223",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "11:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1093226",
+            "is_perpetual": false,
+            "language": "Spanish",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "12:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Monday    ",
+            "id": "1232992",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "09:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Tuesday   ",
+            "id": "1232993",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "09:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Wednesday ",
+            "id": "1232994",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "09:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Thursday  ",
+            "id": "1232995",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "09:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Friday    ",
+            "id": "1232996",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "09:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Saturday  ",
+            "id": "1093219",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Confessions",
+            "time_end": "16:45:00",
+            "time_start": "16:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Saturday  ",
+            "id": "1232991",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "17:00:00"
+          }
+        ],
+        "comments": "",
+        "diocese_name": "Brooklyn",
+        "diocese_type_name": "Diocese",
+        "directions": "",
+        "email": "tgpettei@hotmail.com",
+        "id": "65052",
+        "language_name": "English ",
+        "last_update": "4\/24\/2018 5:05:02 PM",
+        "lat_long_source": null,
+        "latitude": "40.737360644",
+        "longitude": "-73.9302941747",
+        "military_time": true,
+        "name": "St. Raphael",
+        "pastors_name": null,
+        "phone_number": "(718) 729-8957",
+        "rite_type_name": "Roman-Latin",
+        "url": "https:\/\/straphael-queens.org",
+        "wheel_chair_access": true,
+        "distance": "0.535491609000254",
+        "resultID": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9302941747, 40.737360644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1219,
+        "church_address_city_name": "Brooklyn",
+        "church_address_country_territory_name": "United States",
+        "church_address_county": null,
+        "church_address_postal_code": "11222",
+        "church_address_providence_name": "New York",
+        "church_address_street_address": "607 Humboldt Street",
+        "church_type_name": "Parish",
+        "church_worship_times": [
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1092208",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "07:30:00"
+          },
+          {
+            "comment": "English",
+            "day_of_week": "Sunday    ",
+            "id": "1092207",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "09:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1232168",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "10:15:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1092206",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "11:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1232162",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "13:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1232163",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "20:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Monday    ",
+            "id": "1232169",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "06:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Monday    ",
+            "id": "1232175",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "07:00:00"
+          },
+          {
+            "comment": "English",
+            "day_of_week": "Monday    ",
+            "id": "1232181",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "08:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Monday    ",
+            "id": "1232187",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "09:00:00"
+          },
+          {
+            "comment": "Miraculous Medal Novena",
+            "day_of_week": "Monday    ",
+            "id": "1357614",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Devotions",
+            "time_end": "09:40:00",
+            "time_start": "09:25:00"
+          },
+          {
+            "comment": "Schedule of masses on weekdays could change due to holidays, weather and priest availability.  Call ahead to confirm.",
+            "day_of_week": "Monday    ",
+            "id": "1232188",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "19:00:00"
+          },
+          {
+            "comment": "Miraculous Medal Novena - English",
+            "day_of_week": "Monday    ",
+            "id": "1357612",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Devotions",
+            "time_end": "19:40:00",
+            "time_start": "19:25:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Tuesday   ",
+            "id": "1232170",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "06:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Tuesday   ",
+            "id": "1232176",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "07:00:00"
+          },
+          {
+            "comment": "English",
+            "day_of_week": "Tuesday   ",
+            "id": "1232182",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "08:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Tuesday   ",
+            "id": "1232189",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "19:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Wednesday ",
+            "id": "1232171",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "06:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Wednesday ",
+            "id": "1232177",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "07:00:00"
+          },
+          {
+            "comment": "English",
+            "day_of_week": "Wednesday ",
+            "id": "1232183",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "08:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Wednesday ",
+            "id": "1232190",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "19:00:00"
+          },
+          {
+            "comment": "Mother of Perpetual Help Novena",
+            "day_of_week": "Wednesday ",
+            "id": "1357615",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Devotions",
+            "time_end": "19:40:00",
+            "time_start": "19:25:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Thursday  ",
+            "id": "1232172",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "06:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Thursday  ",
+            "id": "1232178",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "07:00:00"
+          },
+          {
+            "comment": "English",
+            "day_of_week": "Thursday  ",
+            "id": "1232184",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "08:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Thursday  ",
+            "id": "1232191",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "19:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Friday    ",
+            "id": "1232173",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "06:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Friday    ",
+            "id": "1232179",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "07:00:00"
+          },
+          {
+            "comment": "English",
+            "day_of_week": "Friday    ",
+            "id": "1232185",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "08:00:00"
+          },
+          {
+            "comment": "First Fridays",
+            "day_of_week": "Friday    ",
+            "id": "1357616",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Adorations",
+            "time_end": "19:00:00",
+            "time_start": "08:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Friday    ",
+            "id": "1232192",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "19:00:00"
+          },
+          {
+            "comment": "Divine Mercy Chaplet",
+            "day_of_week": "Friday    ",
+            "id": "1357613",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Devotions",
+            "time_end": "19:40:00",
+            "time_start": "19:25:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Saturday  ",
+            "id": "1232174",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "06:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Saturday  ",
+            "id": "1232180",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "07:00:00"
+          },
+          {
+            "comment": "English",
+            "day_of_week": "Saturday  ",
+            "id": "1232186",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "08:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Saturday  ",
+            "id": "1232166",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Confessions",
+            "time_end": "17:25:00",
+            "time_start": "16:00:00"
+          },
+          {
+            "comment": "English",
+            "day_of_week": "Saturday  ",
+            "id": "1092205",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "17:30:00"
+          },
+          {
+            "comment": "in Lower Church",
+            "day_of_week": "Saturday  ",
+            "id": "1232165",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Confessions",
+            "time_end": "19:30:00",
+            "time_start": "18:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Saturday  ",
+            "id": "1232161",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "19:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Weekdays  ",
+            "id": "1232164",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Confessions",
+            "time_end": "08:00:00",
+            "time_start": "07:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Weekdays  ",
+            "id": "1357611",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Confessions",
+            "time_end": "19:00:00",
+            "time_start": "18:30:00"
+          }
+        ],
+        "comments": "",
+        "diocese_name": "Brooklyn",
+        "diocese_type_name": "Diocese",
+        "directions": "",
+        "email": "",
+        "id": "64964",
+        "language_name": "English ",
+        "last_update": "5\/11\/2017 6:08:15 PM",
+        "lat_long_source": null,
+        "latitude": "40.7228317742209",
+        "longitude": "-73.945054782982",
+        "military_time": true,
+        "name": "St. Stanislaus Kostka",
+        "pastors_name": null,
+        "phone_number": "(718) 388-0170",
+        "rite_type_name": "Roman-Latin",
+        "url": "www.ststanskostka.org",
+        "wheel_chair_access": true,
+        "distance": "0.747213771581069",
+        "resultID": 2},
+
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.945054782982,
+            40.7228317742209]
+        }
+      },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1157,
+        "church_address_city_name":"Brooklyn","church_address_country_territory_name":"United States","church_address_county":"Kings","church_address_postal_code":"11222","church_address_providence_name":"New York","church_address_street_address":"84 Herbert Street","church_type_name":"Parish","church_worship_times":[{"comment":"Main Church on N. Henry St.","day_of_week":"Sunday    ","id":"1228069","is_perpetual":false,"language":"English","service_typename":"Weekend","time_end":"","time_start":"09:30:00"},{"comment":"Main Church on N Henry St","day_of_week":"Sunday    ","id":"1329699","is_perpetual":false,"language":"Latin","service_typename":"Weekend","time_end":"","time_start":"19:00:00"},{"comment":"Weekday masses in Chapel.  Enter on Herbert St.","day_of_week":"Monday    ","id":"1091433","is_perpetual":false,"language":"English","service_typename":"Week Days","time_end":"","time_start":"08:30:00"},{"comment":"Adoration in Chapel.  Enter on Herbert St.","day_of_week":"Monday    ","id":"1468148","is_perpetual":false,"language":null,"service_typename":"Adorations","time_end":"22:00:00","time_start":"21:00:00"},{"comment":"","day_of_week":"Tuesday   ","id":"1091434","is_perpetual":false,"language":"English","service_typename":"Week Days","time_end":"","time_start":"08:30:00"},{"comment":"Adoration in Chapel.  Enter on Herbert St.","day_of_week":"Tuesday   ","id":"1468149","is_perpetual":false,"language":null,"service_typename":"Adorations","time_end":"22:00:00","time_start":"21:00:00"},{"comment":"","day_of_week":"Wednesday ","id":"1091435","is_perpetual":false,"language":"English","service_typename":"Week Days","time_end":"","time_start":"08:30:00"},{"comment":"Adoration in Chapel.  Enter on Herbert St.","day_of_week":"Wednesday ","id":"1468150","is_perpetual":false,"language":null,"service_typename":"Adorations","time_end":"22:00:00","time_start":"21:00:00"},{"comment":"","day_of_week":"Thursday  ","id":"1091436","is_perpetual":false,"language":"English","service_typename":"Week Days","time_end":"","time_start":"08:30:00"},{"comment":"Adoration in Chapel.  Enter on Herbert St.","day_of_week":"Thursday  ","id":"1468151","is_perpetual":false,"language":null,"service_typename":"Adorations","time_end":"22:00:00","time_start":"21:00:00"},{"comment":"","day_of_week":"Friday    ","id":"1091437","is_perpetual":false,"language":"English","service_typename":"Week Days","time_end":"","time_start":"08:30:00"},{"comment":"Adoration in Chapel.  Enter on Herbert St. - Note that Fridays, adoration moves to mornings.","day_of_week":"Friday    ","id":"1228072","is_perpetual":false,"language":"English","service_typename":"Adorations","time_end":"10:00:00","time_start":"09:00:00"},{"comment":"Mass in Chapel.  Enter on Herbert St.","day_of_week":"Saturday  ","id":"1091438","is_perpetual":false,"language":"English","service_typename":"Week Days","time_end":"","time_start":"08:30:00"},{"comment":"Main Church on N. Henry St.","day_of_week":"Saturday  ","id":"1320568","is_perpetual":false,"language":"English","service_typename":"Confessions","time_end":"09:30:00","time_start":"09:00:00"}],"comments":"","diocese_name":"Brooklyn","diocese_type_name":"Diocese","directions":"East on BQE to McGuiness-Humboldt exit and continue east under the highway for 1 block making a right onto North Henry St. for 1 block   or  West on BQE taking Meeker Morgan exit then follow along under highway for 4 trafic lights making a left onto North Henry St.","email":"divinemercyparish-brooklyn@hotmail.com","id":"64886","language_name":"English ","last_update":"1\/20\/2020 12:41:23 PM","lat_long_source":null,"latitude":"40.7202906874587","longitude":"-73.9421798720973","military_time":false,"name":"St. Cecilia Church - Divine Mercy Parish","pastors_name":"Rev. Thomas F. Vassalotti","phone_number":"(718) 387-0256","rite_type_name":"Roman-Latin","url":"www.divinemercy-brooklyn.org","wheel_chair_access":true,"distance":"0.799753276517377","resultID":3
+    },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9421798720973, 40.7202906874587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 9,
+        "church_address_city_name":"Woodside","church_address_country_territory_name":"United States","church_address_county":null,"church_address_postal_code":"11377","church_address_providence_name":"New York","church_address_street_address":"50-20 45th. Street","church_type_name":"Parish","church_worship_times":[{"comment":"","day_of_week":"Sunday    ","id":"1093357","is_perpetual":false,"language":"English","service_typename":"Weekend","time_end":"","time_start":"10:00:00"},{"comment":"","day_of_week":"Sunday    ","id":"1093359","is_perpetual":false,"language":"Spanish","service_typename":"Weekend","time_end":"","time_start":"11:30:00"},{"comment":"1st","day_of_week":"Sunday    ","id":"1233348","is_perpetual":false,"language":"English ","service_typename":"Adorations","time_end":"16:30:00","time_start":"15:30:00"},{"comment":"","day_of_week":"Monday    ","id":"1233342","is_perpetual":false,"language":"English ","service_typename":"Week Days","time_end":"","time_start":"08:00:00"},{"comment":"","day_of_week":"Tuesday   ","id":"1233343","is_perpetual":false,"language":"English ","service_typename":"Week Days","time_end":"","time_start":"08:00:00"},{"comment":"","day_of_week":"Wednesday ","id":"1233344","is_perpetual":false,"language":"Spanish","service_typename":"Week Days","time_end":"","time_start":"19:30:00"},{"comment":"","day_of_week":"Thursday  ","id":"1233345","is_perpetual":false,"language":"English ","service_typename":"Week Days","time_end":"","time_start":"08:00:00"},{"comment":"","day_of_week":"Friday    ","id":"1233346","is_perpetual":false,"language":"English ","service_typename":"Week Days","time_end":"","time_start":"08:00:00"},{"comment":"","day_of_week":"Saturday  ","id":"1093353","is_perpetual":false,"language":"English ","service_typename":"Confessions","time_end":"16:45:00","time_start":"16:00:00"},{"comment":"","day_of_week":"Saturday  ","id":"1233341","is_perpetual":false,"language":"English ","service_typename":"Weekend","time_end":"","time_start":"17:00:00"},{"comment":"Times Vary Call Parish to Confirm","day_of_week":"Weekdays  ","id":"1233349","is_perpetual":false,"language":"English ","service_typename":"Vigil for Holy Days","time_end":"","time_start":"01:00:00"},{"comment":"Times Vary Call Parish to Confirm","day_of_week":"Weekdays  ","id":"1233347","is_perpetual":false,"language":"English ","service_typename":"Holy Days","time_end":"","time_start":"01:00:00"}],"comments":"","diocese_name":"Brooklyn","diocese_type_name":"Diocese","directions":"Ex Pkwy. Rte. 495 exit. 48 St. Left to second Light. Left to 45 St. Right on 45 St.","email":"","id":"65063","language_name":"English ","last_update":"2\/4\/2018 3:16:15 PM","lat_long_source":null,"latitude":"40.7373","longitude":"-73.92104","military_time":true,"name":"St. Teresa","pastors_name":null,"phone_number":"(718) 784-2123","rite_type_name":"Roman-Latin","url":"http:\/\/www.saintteresachurch.org\/","wheel_chair_access":true,"distance":"0.878502793960688","resultID":4
+    },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.92104, 40.7373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1219,
+        "church_address_city_name":"Brooklyn","church_address_country_territory_name":"United States","church_address_county":null,"church_address_postal_code":"11222","church_address_providence_name":"New York","church_address_street_address":"862 Manhattan Avenue","church_type_name":"Parish",
+        "church_worship_times": [
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1350668",
+            "is_perpetual": false,
+            "language": "English",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "08:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1093224",
+            "is_perpetual": false,
+            "language": "Korean",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "09:45:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1093223",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "11:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1093226",
+            "is_perpetual": false,
+            "language": "Spanish",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "12:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Monday    ",
+            "id": "1232992",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "09:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Tuesday   ",
+            "id": "1232993",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "09:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Wednesday ",
+            "id": "1232994",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "09:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Thursday  ",
+            "id": "1232995",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "09:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Friday    ",
+            "id": "1232996",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "09:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Saturday  ",
+            "id": "1093219",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Confessions",
+            "time_end": "16:45:00",
+            "time_start": "16:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Saturday  ",
+            "id": "1232991",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "17:00:00"
+          }
+        ],
+        "comments": "",
+        "diocese_name": "Brooklyn",
+        "diocese_type_name": "Diocese",
+        "directions": "",
+        "email": "tgpettei@hotmail.com",
+        "id": "65052",
+        "language_name": "English ",
+        "last_update": "4\/24\/2018 5:05:02 PM",
+        "lat_long_source": null,
+        "latitude": "40.737360644",
+        "longitude": "-73.9302941747",
+        "military_time": true,
+        "name": "St. Raphael",
+        "pastors_name": null,
+        "phone_number": "(718) 729-8957",
+        "rite_type_name": "Roman-Latin",
+        "url": "https:\/\/straphael-queens.org",
+        "wheel_chair_access": true,
+        "distance": "0.535491609000254",
+        "resultID": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9538433331647, 40.7294709104108]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1219,
+        "church_address_city_name":"Brooklyn","church_address_country_territory_name":"United States","church_address_county":null,"church_address_postal_code":"11222","church_address_providence_name":"New York","church_address_street_address":"150 Dupont Street","church_type_name":"Parish",
+        "church_worship_times": [
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1092208",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "07:30:00"
+          },
+          {
+            "comment": "English",
+            "day_of_week": "Sunday    ",
+            "id": "1092207",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "09:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1232168",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "10:15:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1092206",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "11:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1232162",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "13:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1232163",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "20:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Monday    ",
+            "id": "1232169",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "06:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Monday    ",
+            "id": "1232175",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "07:00:00"
+          },
+          {
+            "comment": "English",
+            "day_of_week": "Monday    ",
+            "id": "1232181",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "08:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Monday    ",
+            "id": "1232187",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "09:00:00"
+          },
+          {
+            "comment": "Miraculous Medal Novena",
+            "day_of_week": "Monday    ",
+            "id": "1357614",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Devotions",
+            "time_end": "09:40:00",
+            "time_start": "09:25:00"
+          },
+          {
+            "comment": "Schedule of masses on weekdays could change due to holidays, weather and priest availability.  Call ahead to confirm.",
+            "day_of_week": "Monday    ",
+            "id": "1232188",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "19:00:00"
+          },
+          {
+            "comment": "Miraculous Medal Novena - English",
+            "day_of_week": "Monday    ",
+            "id": "1357612",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Devotions",
+            "time_end": "19:40:00",
+            "time_start": "19:25:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Tuesday   ",
+            "id": "1232170",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "06:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Tuesday   ",
+            "id": "1232176",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "07:00:00"
+          },
+          {
+            "comment": "English",
+            "day_of_week": "Tuesday   ",
+            "id": "1232182",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "08:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Tuesday   ",
+            "id": "1232189",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "19:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Wednesday ",
+            "id": "1232171",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "06:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Wednesday ",
+            "id": "1232177",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "07:00:00"
+          },
+          {
+            "comment": "English",
+            "day_of_week": "Wednesday ",
+            "id": "1232183",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "08:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Wednesday ",
+            "id": "1232190",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "19:00:00"
+          },
+          {
+            "comment": "Mother of Perpetual Help Novena",
+            "day_of_week": "Wednesday ",
+            "id": "1357615",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Devotions",
+            "time_end": "19:40:00",
+            "time_start": "19:25:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Thursday  ",
+            "id": "1232172",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "06:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Thursday  ",
+            "id": "1232178",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "07:00:00"
+          },
+          {
+            "comment": "English",
+            "day_of_week": "Thursday  ",
+            "id": "1232184",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "08:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Thursday  ",
+            "id": "1232191",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "19:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Friday    ",
+            "id": "1232173",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "06:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Friday    ",
+            "id": "1232179",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "07:00:00"
+          },
+          {
+            "comment": "English",
+            "day_of_week": "Friday    ",
+            "id": "1232185",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "08:00:00"
+          },
+          {
+            "comment": "First Fridays",
+            "day_of_week": "Friday    ",
+            "id": "1357616",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Adorations",
+            "time_end": "19:00:00",
+            "time_start": "08:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Friday    ",
+            "id": "1232192",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "19:00:00"
+          },
+          {
+            "comment": "Divine Mercy Chaplet",
+            "day_of_week": "Friday    ",
+            "id": "1357613",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Devotions",
+            "time_end": "19:40:00",
+            "time_start": "19:25:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Saturday  ",
+            "id": "1232174",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "06:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Saturday  ",
+            "id": "1232180",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "07:00:00"
+          },
+          {
+            "comment": "English",
+            "day_of_week": "Saturday  ",
+            "id": "1232186",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "08:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Saturday  ",
+            "id": "1232166",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Confessions",
+            "time_end": "17:25:00",
+            "time_start": "16:00:00"
+          },
+          {
+            "comment": "English",
+            "day_of_week": "Saturday  ",
+            "id": "1092205",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "17:30:00"
+          },
+          {
+            "comment": "in Lower Church",
+            "day_of_week": "Saturday  ",
+            "id": "1232165",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Confessions",
+            "time_end": "19:30:00",
+            "time_start": "18:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Saturday  ",
+            "id": "1232161",
+            "is_perpetual": false,
+            "language": "Polish",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "19:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Weekdays  ",
+            "id": "1232164",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Confessions",
+            "time_end": "08:00:00",
+            "time_start": "07:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Weekdays  ",
+            "id": "1357611",
+            "is_perpetual": false,
+            "language": null,
+            "service_typename": "Confessions",
+            "time_end": "19:00:00",
+            "time_start": "18:30:00"
+          }
+        ],
+        "comments": "",
+        "diocese_name": "Brooklyn",
+        "diocese_type_name": "Diocese",
+        "directions": "",
+        "email": "",
+        "id": "64964",
+        "language_name": "English ",
+        "last_update": "5\/11\/2017 6:08:15 PM",
+        "lat_long_source": null,
+        "latitude": "40.7228317742209",
+        "longitude": "-73.945054782982",
+        "military_time": true,
+        "name": "St. Stanislaus Kostka",
+        "pastors_name": null,
+        "phone_number": "(718) 388-0170",
+        "rite_type_name": "Roman-Latin",
+        "url": "www.ststanskostka.org",
+        "wheel_chair_access": true,
+        "distance": "0.747213771581069",
+        "resultID": 2},
+
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9538,
+          40.73598]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1157,
+        "church_address_city_name":"Brooklyn","church_address_country_territory_name":"United States","church_address_county":"Kings","church_address_postal_code":"11211","church_address_providence_name":"New York","church_address_street_address":"219 Conselyea St.","church_type_name":"Parish","church_worship_times":[{"comment":"Main Church on N. Henry St.","day_of_week":"Sunday    ","id":"1228069","is_perpetual":false,"language":"English","service_typename":"Weekend","time_end":"","time_start":"09:30:00"},{"comment":"Main Church on N Henry St","day_of_week":"Sunday    ","id":"1329699","is_perpetual":false,"language":"Latin","service_typename":"Weekend","time_end":"","time_start":"19:00:00"},{"comment":"Weekday masses in Chapel.  Enter on Herbert St.","day_of_week":"Monday    ","id":"1091433","is_perpetual":false,"language":"English","service_typename":"Week Days","time_end":"","time_start":"08:30:00"},{"comment":"Adoration in Chapel.  Enter on Herbert St.","day_of_week":"Monday    ","id":"1468148","is_perpetual":false,"language":null,"service_typename":"Adorations","time_end":"22:00:00","time_start":"21:00:00"},{"comment":"","day_of_week":"Tuesday   ","id":"1091434","is_perpetual":false,"language":"English","service_typename":"Week Days","time_end":"","time_start":"08:30:00"},{"comment":"Adoration in Chapel.  Enter on Herbert St.","day_of_week":"Tuesday   ","id":"1468149","is_perpetual":false,"language":null,"service_typename":"Adorations","time_end":"22:00:00","time_start":"21:00:00"},{"comment":"","day_of_week":"Wednesday ","id":"1091435","is_perpetual":false,"language":"English","service_typename":"Week Days","time_end":"","time_start":"08:30:00"},{"comment":"Adoration in Chapel.  Enter on Herbert St.","day_of_week":"Wednesday ","id":"1468150","is_perpetual":false,"language":null,"service_typename":"Adorations","time_end":"22:00:00","time_start":"21:00:00"},{"comment":"","day_of_week":"Thursday  ","id":"1091436","is_perpetual":false,"language":"English","service_typename":"Week Days","time_end":"","time_start":"08:30:00"},{"comment":"Adoration in Chapel.  Enter on Herbert St.","day_of_week":"Thursday  ","id":"1468151","is_perpetual":false,"language":null,"service_typename":"Adorations","time_end":"22:00:00","time_start":"21:00:00"},{"comment":"","day_of_week":"Friday    ","id":"1091437","is_perpetual":false,"language":"English","service_typename":"Week Days","time_end":"","time_start":"08:30:00"},{"comment":"Adoration in Chapel.  Enter on Herbert St. - Note that Fridays, adoration moves to mornings.","day_of_week":"Friday    ","id":"1228072","is_perpetual":false,"language":"English","service_typename":"Adorations","time_end":"10:00:00","time_start":"09:00:00"},{"comment":"Mass in Chapel.  Enter on Herbert St.","day_of_week":"Saturday  ","id":"1091438","is_perpetual":false,"language":"English","service_typename":"Week Days","time_end":"","time_start":"08:30:00"},{"comment":"Main Church on N. Henry St.","day_of_week":"Saturday  ","id":"1320568","is_perpetual":false,"language":"English","service_typename":"Confessions","time_end":"09:30:00","time_start":"09:00:00"}],"comments":"","diocese_name":"Brooklyn","diocese_type_name":"Diocese","directions":"East on BQE to McGuiness-Humboldt exit and continue east under the highway for 1 block making a right onto North Henry St. for 1 block   or  West on BQE taking Meeker Morgan exit then follow along under highway for 4 trafic lights making a left onto North Henry St.","email":"divinemercyparish-brooklyn@hotmail.com","id":"64886","language_name":"English ","last_update":"1\/20\/2020 12:41:23 PM","lat_long_source":null,"latitude":"40.7202906874587","longitude":"-73.9421798720973","military_time":false,"name":"St. Cecilia Church - Divine Mercy Parish","pastors_name":"Rev. Thomas F. Vassalotti","phone_number":"(718) 387-0256","rite_type_name":"Roman-Latin","url":"www.divinemercy-brooklyn.org","wheel_chair_access":true,"distance":"0.799753276517377","resultID":3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9423504368401, 40.715474396032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1219,
+        "church_address_city_name":"Brooklyn","church_address_country_territory_name":"United States","church_address_county":null,"church_address_postal_code":"11222","church_address_providence_name":"New York","church_address_street_address":"85 N 15th St","church_type_name":"Mission",
+        "church_worship_times": [
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1350668",
+            "is_perpetual": false,
+            "language": "English",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "08:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1093224",
+            "is_perpetual": false,
+            "language": "Korean",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "09:45:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1093223",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "11:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Sunday    ",
+            "id": "1093226",
+            "is_perpetual": false,
+            "language": "Spanish",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "12:30:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Monday    ",
+            "id": "1232992",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "09:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Tuesday   ",
+            "id": "1232993",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "09:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Wednesday ",
+            "id": "1232994",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "09:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Thursday  ",
+            "id": "1232995",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "09:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Friday    ",
+            "id": "1232996",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Week Days",
+            "time_end": "",
+            "time_start": "09:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Saturday  ",
+            "id": "1093219",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Confessions",
+            "time_end": "16:45:00",
+            "time_start": "16:00:00"
+          },
+          {
+            "comment": "",
+            "day_of_week": "Saturday  ",
+            "id": "1232991",
+            "is_perpetual": false,
+            "language": "English ",
+            "service_typename": "Weekend",
+            "time_end": "",
+            "time_start": "17:00:00"
+          }
+        ],
+        "comments": "",
+        "diocese_name": "Brooklyn",
+        "diocese_type_name": "Diocese",
+        "directions": "",
+        "email": "tgpettei@hotmail.com",
+        "id": "65052",
+        "language_name": "English ",
+        "last_update": "4\/24\/2018 5:05:02 PM",
+        "lat_long_source": null,
+        "latitude": "40.737360644",
+        "longitude": "-73.9302941747",
+        "military_time": true,
+        "name": "St. Raphael",
+        "pastors_name": null,
+        "phone_number": "(718) 729-8957",
+        "rite_type_name": "Roman-Latin",
+        "url": "https:\/\/straphael-queens.org",
+        "wheel_chair_access": true,
+        "distance": "0.535491609000254",
+        "resultID": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9540798834324, 40.7230090130206]
+      }
+    }
+  ]
+}
